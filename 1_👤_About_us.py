@@ -30,15 +30,17 @@ st.text("")
 st.subheader("Objective")
 st.write(
  """
- * Help in prediction of liver disease
+ * To provide a tool for professionals to verify their diagnoses and reduce errors in diagnosis.
 
- * Act as a guidance for professionals
+ * By providing an easily accessible and accurate tool, healthcare professionals who may overlook important information due to a heavy workload can be better equipped to diagnose and detect liver disease earlier, leading to prompt treatment and improved patient outcomes.
+ 
+ *To assist in the diagnosis of complex and confusing medical data by providing an easy-to-use and accurate tool.
  """   
 )
 st.text("")
 st.write("---")
 st.text("")
-st.haeder("Limitation of the Model")
+st.header("Limitation of the Model")
 st.write(
  """
   * The prediction model provides a binary result indicating whether or not a patient is likely to have liver disease based on the available data and variables. However, it is important to note that it does not provide a probability of developing liver disease.

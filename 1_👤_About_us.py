@@ -20,9 +20,9 @@ st.text("")
 st.subheader("Objective")
 st.write(
  """
-*Help in prediction of liver disease
+ *Help in prediction of liver disease
 
-*Act as a guidance for professionals
+ *Act as a guidance for professionals
  """   
 )
 st.text("")

@@ -34,7 +34,7 @@ st.write(
 
  * By providing an easily accessible and accurate tool, healthcare professionals who may overlook important information due to a heavy workload can be better equipped to diagnose and detect liver disease earlier, leading to prompt treatment and improved patient outcomes.
  
- *To assist in the diagnosis of complex and confusing medical data by providing an easy-to-use and accurate tool.
+ * To assist in the diagnosis of complex and confusing medical data by providing an easy-to-use and accurate tool.
  """   
 )
 st.text("")

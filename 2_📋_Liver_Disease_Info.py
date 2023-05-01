@@ -7,6 +7,14 @@ st.title("LIVER DISEASE INFO")
 st.sidebar.success("Select a page above")
 
 st.subheader("ABOUT LIVER DISEASE")
+st.text("")
+st.write(
+    """
+
+    Below is  a picture of the various condition of a liver 
+
+    """
+    )  
 st.image("Liver.png")
 st.text("")
 st.write(
@@ -22,7 +30,7 @@ st.text("")
 
 st.write("---")
 st.text("")
-st.subheader("RISK FACTORS")
+st.subheader("RISK FACTORS OF CAUSING LIVER DISEASE")
 st.text("")
 st.write(
     """

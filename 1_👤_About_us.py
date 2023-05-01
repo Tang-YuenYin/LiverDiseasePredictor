@@ -5,6 +5,16 @@ st.set_page_config(page_title="Liver Predictor",page_icon="🧑‍⚕️")
 #Function to display the content in the Home Page
 st.title("ABOUT US")
 st.sidebar.success("Select a page above")
+
+st.text("")
+st.subheader("Group Name")
+st.write(
+ """
+ XXX is group that creates 
+ """
+)
+st.text("")
+st.write("---")
 st.text("")
 st.subheader("Problem Statement")
 st.write(
@@ -24,6 +34,20 @@ st.write(
 
  * Act as a guidance for professionals
  """   
+)
+st.text("")
+st.write("---")
+st.text("")
+st.haeder("Limitation of the Model")
+st.write(
+ """
+  * The prediction model provides a binary result indicating whether or not a patient is likely to have liver disease based on the available data and variables. However, it is important to note that it does not provide a probability of developing liver disease.
+  
+  * The prediction model is based on the available data and variables used in the analysis. There may be other important factors that were not included in the analysis, which could affect the accuracy of the prediction.
+  
+  * The prediction model is trained based on the data collected. Therefore, accuracy is not fully garanteed.
+
+ """
 )
 st.text("")
 st.write("---")

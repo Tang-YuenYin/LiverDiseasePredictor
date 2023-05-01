@@ -31,14 +31,14 @@ st.text("")
 st.subheader("Our Team")
 st.write(
  """
-* Adeline Kong Earn Ning
+ * Adeline Kong Earn Ning
 
-* Lee Zia Qian
+ * Lee Zia Qian
 
-* Low Hui Yi
+ * Low Hui Yi
 
-* Tang Yuen Yin
+ * Tang Yuen Yin
 
-* Yoong Jing Yi 
+ * Yoong Jing Yi 
  """   
 )

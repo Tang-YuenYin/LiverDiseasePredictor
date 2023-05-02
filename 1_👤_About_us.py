@@ -23,7 +23,7 @@ st.write(
  """
  Therefore, our aim is to solve puzzles based on the clues there are.
  
- In this project, BLues CLues has created a Liver Disease Predictor. Below are the problem statement, objectives, limitationa nd group member's of the project:
+ In this project, BLues CLues has created a Liver Disease Predictor. Below are the problem statement, objectives, limitations and group members of the project:
  """
 )
 st.text("")
@@ -36,7 +36,7 @@ Overall, about 1 in 10 Americans (30 million in total) have some type of liver d
 
 Some types of liver disease are becoming more common in the U.S. because they are related to rising rates of obesity. An estimated 20% to 30% of adults have excess fat in their liver, a condition called non-alcohol rekated fatty liver disease (NAFD). This may be renamed metabolic-associated fatty liver disease (MAFLD) to reflect its relationship to metabolic syndrome and conditions like diabetes, high blood pressure, high cholesterol and obesity.
  
- Therefore, our problem statement is how can we use machine learning to help in predicting liver disease for early diagnosis.
+Therefore, our problem statement is how can we use machine learning to help in predicting liver disease for early detection.
  """   
 )
 st.text("")

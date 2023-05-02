@@ -90,4 +90,4 @@ st.write(
 st.text("")
 st.write("---")
 st.text("")
-st.markdown("<h2 style='text-align: center; color: grey;'>"Clues bring us one step closer to the truth"</h2>", unsafe_allow_html=True)
+st.markdown("<h2 style='text-align: center; color: grey;'>\"Clues bring us one step closer to the truth\"</h2>", unsafe_allow_html=True)

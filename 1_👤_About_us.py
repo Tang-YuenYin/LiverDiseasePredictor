@@ -7,10 +7,23 @@ st.title("ABOUT US")
 st.sidebar.success("Select a page above")
 
 st.text("")
-st.subheader("Group Name")
+st.subheader("bLuES cLuES")
 st.write(
  """
- XXX is group that creates 
+ bLuES cLuES is made by a group of 5 students who are taking the subject of Machine Learning in University of Malaya.
+ 
+The name bLuES cLuES is inspired by the TV show Blue's Clues.The show follows an animated blue-spotted dog named Blue as she leaves a trail of clues/paw prints for the host and the viewers to figure out her plans for the day.
+
+ """
+)
+
+st.image("blues clues.png")
+
+st.write(
+ """
+ Therefore,our aim of the group is to solve puzzles based on the clues there are like how the host follow blue's pawprints in the show.
+ 
+ In this project, bLuES cLuES has created a Liver Disease Predictor. Below are the problem statement, objectives, limitationa nd group member's of the project:
  """
 )
 st.text("")
@@ -22,6 +35,8 @@ st.write(
 Overall, about 1 in 10 Americans (30 million in total) have some type of liver disease. About 5.5 million people in the U.S. have chronic liver disease or cirrhosis.
 
 Some types of liver disease are becoming more common in the U.S. because they are related to rising rates of obesity. An estimated 20% to 30% of adults have excess fat in their liver, a condition called non-alcohol rekated fatty liver disease (NAFD). This may be renamed metabolic-associated fatty liver disease (MAFLD) to reflect its relationship to metabolic syndrome and conditions like diabetes, high blood pressure, high cholesterol and obesity.
+ 
+ Therefore, our problem statement is how can we use machine learning to help in predicting liver disease for early diagnosis.
  """   
 )
 st.text("")
@@ -30,9 +45,9 @@ st.text("")
 st.subheader("Objective")
 st.write(
  """
- * To provide a tool for professionals to verify their diagnoses and reduce errors in diagnosis.
+ * Diagnosis support: To provide a tool for professionals to verify their diagnoses and reduce errors in diagnosis.
 
- * By providing an easily accessible and accurate tool, healthcare professionals who may overlook important information due to a heavy workload can be better equipped to diagnose and detect liver disease earlier, leading to prompt treatment and improved patient outcomes.
+ * Early detection: Early detection can help in preventing the progression of the disease and increase recovery chance. 
  
  * To assist in the diagnosis of complex and confusing medical data by providing an easy-to-use and accurate tool.
  """   
@@ -43,11 +58,15 @@ st.text("")
 st.header("Limitation of the Model")
 st.write(
  """
-  * The prediction model provides a binary result indicating whether or not a patient is likely to have liver disease based on the available data and variables. However, it is important to note that it does not provide a probability of developing liver disease.
+  * The prediction model provides a binary result indicating whether or not a patient is likely to have liver disease based on the available data and variables. However, it is important to note that it does not provide a probability of getting liver disease. For further confirmation, extra tests need to be conducted if needed. 
   
   * The prediction model is based on the available data and variables used in the analysis. There may be other important factors that were not included in the analysis, which could affect the accuracy of the prediction.
   
-  * The prediction model is trained based on the data collected. Therefore, accuracy is not fully garanteed.
+  * The website does not provide a diagnosis or treatment plan. The treatment plan should be executed based on patients' bodies' condition in real life and their medical history. Professional advice from medical professional is needed to treat the disease. 
+  
+  * It is important to note that this website is used as a tool to supplement and not replace medical advice from medical professional. It should not be considered as a substitute for medical advice or consultation with a health care provider for proper evaluation and diagnosis.
+  
+  * This website does not provided a comprehensive assessment of a person's overall health as overall health does not solely based on the condition of liver.
 
  """
 )

@@ -10,7 +10,7 @@ st.text("")
 st.subheader("BLues CLues")
 st.write(
  """
- BLues CLues is made by a group of 5 students who are taking the subject of Machine Learning in University of Malaya.
+ BLues CLues is a group of 5 students who are taking the subject of Machine Learning in University of Malaya.
  
 The name BLues CLues is inspired by the TV show Blue's Clues.The show follows an animated blue-spotted dog named Blue as she leaves a trail of clues/paw prints for the host and the viewers to figure out her plans for the day.
 

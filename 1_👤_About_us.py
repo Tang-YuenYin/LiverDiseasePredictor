@@ -21,7 +21,7 @@ st.image("blues clues.png")
 
 st.write(
  """
- Therefore,our aim of the group is to solve puzzles based on the clues there are.
+ Therefore, our aim is to solve puzzles based on the clues there are.
  
  In this project, BLues CLues has created a Liver Disease Predictor. Below are the problem statement, objectives, limitationa nd group member's of the project:
  """

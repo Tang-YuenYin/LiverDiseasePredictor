@@ -87,3 +87,7 @@ st.write(
  * Yoong Jing Yi 
  """   
 )
+st.text("")
+st.write("---")
+st.text("")
+st.markdown("<h2 style='text-align: center; color: black;'>Smaller headline in black </h2>", unsafe_allow_html=True)

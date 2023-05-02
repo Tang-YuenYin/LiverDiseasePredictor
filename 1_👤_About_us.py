@@ -7,12 +7,12 @@ st.title("ABOUT US")
 st.sidebar.success("Select a page above")
 
 st.text("")
-st.subheader("bLuES cLuES")
+st.subheader("BLues CLues")
 st.write(
  """
- bLuES cLuES is made by a group of 5 students who are taking the subject of Machine Learning in University of Malaya.
+ BLues CLues is made by a group of 5 students who are taking the subject of Machine Learning in University of Malaya.
  
-The name bLuES cLuES is inspired by the TV show Blue's Clues.The show follows an animated blue-spotted dog named Blue as she leaves a trail of clues/paw prints for the host and the viewers to figure out her plans for the day.
+The name BLues CLues is inspired by the TV show Blue's Clues.The show follows an animated blue-spotted dog named Blue as she leaves a trail of clues/paw prints for the host and the viewers to figure out her plans for the day.
 
  """
 )
@@ -21,9 +21,9 @@ st.image("blues clues.png")
 
 st.write(
  """
- Therefore,our aim of the group is to solve puzzles based on the clues there are like how the host follow blue's pawprints in the show.
+ Therefore,our aim of the group is to solve puzzles based on the clues there are.
  
- In this project, bLuES cLuES has created a Liver Disease Predictor. Below are the problem statement, objectives, limitationa nd group member's of the project:
+ In this project, BLues CLues has created a Liver Disease Predictor. Below are the problem statement, objectives, limitationa nd group member's of the project:
  """
 )
 st.text("")

@@ -45,7 +45,7 @@ st.text("")
 
 #input Total Bilirubin
 tbilirubin=st.number_input("Total Bilirubin (mg/dL)",format="%.6f")
-st.write(tbilirubin+" mg/dL")
+st.write(tbilirubin" mg/dL")
 st.text("")
 
 #input Direct Bilirubin

@@ -44,37 +44,37 @@ gender=st.selectbox("Gender",["Select gender","Female","Male","Unkown"],index=0)
 st.text("")
 
 #input Total Bilirubin
-tbilirubin=st.number_input("Total Bilirubin",format="%.6f")
+tbilirubin=st.number_input("Total Bilirubin (mg/dL)",format="%.6f")
 st.write(tbilirubin)
 st.text("")
 
 #input Direct Bilirubin
-dbilirubin=st.number_input("Direct Bilirubin",format="%.6f")
+dbilirubin=st.number_input("Direct Bilirubin (mg/dL)",format="%.6f")
 st.write(dbilirubin)
 st.text("")
 
 #input  Alkphos Alkaline Phosphotase
-alkphos_alk_phos=st.number_input("Alkphos Alkaline Phosphotase",format="%.6f")
+alkphos_alk_phos=st.number_input("Alkphos Alkaline Phosphotase(IU/L)",format="%.6f")
 st.write(alkphos_alk_phos)
 st.text("")
 
 #input  Sgpt Alamine Aminotransferase
-sgt_Alam_amino=st.number_input("Sgpt Alamine Aminotransferase",format="%.6f")
+sgt_Alam_amino=st.number_input("Sgpt Alamine Aminotransferase(Units per Liter of serum)",format="%.6f")
 st.write(sgt_Alam_amino)
 st.text("")
 
 #input Sgot Aspartate Aminotransferase
-sgot_asp_amino=st.number_input("Sgot Aspartate Aminotransferase",format="%.6f")
+sgot_asp_amino=st.number_input("Sgot Aspartate Aminotransferase(Units per Liter of serum)",format="%.6f")
 st.write(sgot_asp_amino)
 st.text("")
 
 #input Total Protiens
-tprotein=st.number_input("Total Protiens",format="%.6f")
+tprotein=st.number_input("Total Protiens(g/dL)",format="%.6f")
 st.write(tprotein)
 st.text("")
 
 #input ALB Albumin
-alb=st.number_input("Albumin",format="%.6f")
+alb=st.number_input("Albumin(g/dL)",format="%.6f")
 st.write(alb)
 st.text("")
 

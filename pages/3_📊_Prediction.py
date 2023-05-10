@@ -45,37 +45,37 @@ st.text("")
 
 #input Total Bilirubin
 tbilirubin=st.number_input("Total Bilirubin (mg/dL)",format="%.6f")
-st.write(tbilirubin + " mg/dL")
+st.write(tbilirubin , " mg/dL")
 st.text("")
 
 #input Direct Bilirubin
 dbilirubin=st.number_input("Direct Bilirubin (mg/dL)",format="%.6f")
-st.write(dbilirubin +" mg/dL")
+st.write(dbilirubin ," mg/dL")
 st.text("")
 
 #input  Alkphos Alkaline Phosphotase
 alkphos_alk_phos=st.number_input("Alkphos Alkaline Phosphotase(IU/L)",format="%.6f")
-st.write(alkphos_alk_phos +" IU/L")
+st.write(alkphos_alk_phos ," IU/L")
 st.text("")
 
 #input  Sgpt Alamine Aminotransferase
 sgt_Alam_amino=st.number_input("Sgpt Alamine Aminotransferase(Units per Liter of serum)",format="%.6f")
-st.write(sgt_Alam_amino +" Units per Liter of serum")
+st.write(sgt_Alam_amino ," Units per Liter of serum")
 st.text("")
 
 #input Sgot Aspartate Aminotransferase
 sgot_asp_amino=st.number_input("Sgot Aspartate Aminotransferase(Units per Liter of serum)",format="%.6f")
-st.write(sgot_asp_amino +" Units per Liter of serum")
+st.write(sgot_asp_amino ," Units per Liter of serum")
 st.text("")
 
 #input Total Protiens
 tprotein=st.number_input("Total Protiens(g/dL)",format="%.6f")
-st.write(tprotein +" g/dL")
+st.write(tprotein ," g/dL")
 st.text("")
 
 #input ALB Albumin
 alb=st.number_input("Albumin(g/dL)",format="%.6f")
-st.write(alb +" g/dL")
+st.write(alb ," g/dL")
 st.text("")
 
 # input A/G Ratio Albumin and Globulin Ratio
